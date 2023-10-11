@@ -13,8 +13,8 @@ For creating a pizza ordering bot with Amazon Lex, you would follow these steps:
 ### 3.Create a New Bot:
 * Click "Create" to start a new bot.
 ![3](https://github.com/panwar100/Create_Amazon_Lex_bot/assets/134361823/5798e4d9-d87b-40ad-b3a0-4c8abebdfb4a)
-![4](https://github.com/panwar100/Create_Amazon_Lex_bot/assets/134361823/f7e84463-6d63-488b-94c5-eb37f1351e7c)
-![5](https://github.com/panwar100/Create_Amazon_Lex_bot/assets/134361823/82172c5f-94d1-4f20-bca1-e278d7e4c170)
+![4](https://github.com/panwar100/Create_Amazon_Lex_bot/assets/134361823/fe893637-cbf2-496d-9899-a6134608be7b)
+![5](https://github.com/panwar100/Create_Amazon_Lex_bot/assets/134361823/9c186934-dc44-4264-aa3a-5acd94276f0e)
 
 ### 4.Define Intents:
 * Intents are the goals or tasks that a user can accomplish with your bot. In this case, you'd create an intent like OrderPizza.
@@ -41,7 +41,7 @@ For creating a pizza ordering bot with Amazon Lex, you would follow these steps:
 
 ### 8.Testing:
 * Amazon Lex provides a test chat interface where you can interact with your bot and see how it responds.
-![13](https://github.com/panwar100/Create_Amazon_Lex_bot/assets/134361823/bac2668b-d882-4eed-aee5-db14e85e6635)![14](https://github.com/panwar100/Create_Amazon_Lex_bot/assets/134361823/5c1887de-eb36-4c74-9354-ba33dd2c6331)
+* ![13](https://github.com/panwar100/Create_Amazon_Lex_bot/assets/134361823/bac2668b-d882-4eed-aee5-db14e85e6635)![14](https://github.com/panwar100/Create_Amazon_Lex_bot/assets/134361823/5c1887de-eb36-4c74-9354-ba33dd2c6331)
 ![15](https://github.com/panwar100/Create_Amazon_Lex_bot/assets/134361823/9c8f622d-4af8-49fe-bdd1-a39cc43eb1a7)![16](https://github.com/panwar100/Create_Amazon_Lex_bot/assets/134361823/cfbd5b0a-1891-4dd8-a368-ad7956a3f233)
 ![17](https://github.com/panwar100/Create_Amazon_Lex_bot/assets/134361823/36e3c454-79ba-423f-aaba-c6e22ba8ad35)
 
