@@ -15,7 +15,6 @@ Amazon Lex is a service for making conversational interfaces into any applicatio
 2.Its bots provide the capacity for multi-turn conversations.
 3.it helps context control natively, so you can manage the context immediately without the want for custom code.
 4.It provides two types of prompts:
-
 a.)confirmation prompts
 b.)error-handling prompts
 5.It natively enables integration with AWS Lambda for fact retrieval, updates, and commercial enterprise logic execution.
