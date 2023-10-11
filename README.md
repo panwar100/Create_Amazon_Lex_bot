@@ -28,6 +28,7 @@ For creating a pizza ordering bot with Amazon Lex, you would follow these steps:
 ### 6.Define Slots:
 * Slots are pieces of information you need from the user to fulfill the intent. For pizza ordering, you might have slots like PizzaType, PizzaCrust, Appetizers, and DeliveryTime.
 ![9](https://github.com/panwar100/Create_Amazon_Lex_bot/assets/134361823/e59a950e-4e3a-43d1-9c8e-7cdea4aaeb91)
+[How to Make a Slot Type](docs/How_make_Slot_Type.md)
 ![10](https://github.com/panwar100/Create_Amazon_Lex_bot/assets/134361823/ef2abe88-1e92-4147-bbfc-28c14ab72185)
 ![11](https://github.com/panwar100/Create_Amazon_Lex_bot/assets/134361823/da1fdc28-1563-432f-9ed4-3a6a45744781)
  
