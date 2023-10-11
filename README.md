@@ -28,8 +28,9 @@ For creating a pizza ordering bot with Amazon Lex, you would follow these steps:
 ### 6.Define Slots:
 * Slots are pieces of information you need from the user to fulfill the intent. For pizza ordering, you might have slots like PizzaType, PizzaCrust, Appetizers, and DeliveryTime.
 ![9](https://github.com/panwar100/Create_Amazon_Lex_bot/assets/134361823/e59a950e-4e3a-43d1-9c8e-7cdea4aaeb91)
-[How to Make a Slot Type](docs/How_make_Slot_Type.md)
+[How to Make a Slot Type](How_make_Slot_Type.md)
 ![10](https://github.com/panwar100/Create_Amazon_Lex_bot/assets/134361823/ef2abe88-1e92-4147-bbfc-28c14ab72185)
+[How to Add Slots to Intent](How_add_slots_to_intent.md)
 ![11](https://github.com/panwar100/Create_Amazon_Lex_bot/assets/134361823/da1fdc28-1563-432f-9ed4-3a6a45744781)
  
 ### 7.Set Up Prompts and Validation:
@@ -40,12 +41,16 @@ For creating a pizza ordering bot with Amazon Lex, you would follow these steps:
 
 ### 8.Testing:
 * Amazon Lex provides a test chat interface where you can interact with your bot and see how it responds.
+![13](https://github.com/panwar100/Create_Amazon_Lex_bot/assets/134361823/bac2668b-d882-4eed-aee5-db14e85e6635)![14](https://github.com/panwar100/Create_Amazon_Lex_bot/assets/134361823/5c1887de-eb36-4c74-9354-ba33dd2c6331)
+![15](https://github.com/panwar100/Create_Amazon_Lex_bot/assets/134361823/9c8f622d-4af8-49fe-bdd1-a39cc43eb1a7)![16](https://github.com/panwar100/Create_Amazon_Lex_bot/assets/134361823/cfbd5b0a-1891-4dd8-a368-ad7956a3f233)
+![17](https://github.com/panwar100/Create_Amazon_Lex_bot/assets/134361823/36e3c454-79ba-423f-aaba-c6e22ba8ad35)
 
 ### 9.Integrate with Other Services (Optional):
 * You can connect your Lex bot to other AWS services like AWS Lambda for more complex operations.
 
 ### 10.Deploy Your Bot:
 * Once you're satisfied with how your bot is working, you can deploy it and start using it in your applications.
+ https://youtu.be/cuaAiutVkow?si=Y5g5PXfFR6RiWTfk
 
 * Keep in mind that while Amazon Lex is a powerful tool, you might also need to integrate it with other AWS services or your own backend systems to fully process and fulfill orders. For example, you might use AWS Lambda functions to handle the backend processing of the order, and possibly connect to a database to store order details.
 
